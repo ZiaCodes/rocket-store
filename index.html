@@ -12,6 +12,10 @@
 		<link rel="icon" type="image/png" sizes="32x32" href="./favicon/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png">
 		<link rel="manifest" href="./favicon/site.webmanifest">
+
+		<link rel="shortcut icon" href="./favicon/favicon.ico" type="image/x-icon">
+    	<link rel="manifest" href="./manifest.json">
+    	<meta name="theme-color" content="#161623">
 		<link rel="stylesheet" type="text/css" href="css/base.css" />
 		<script>document.documentElement.className="js";var supportsCssVars=function(){var e,t=document.createElement("style");return t.innerHTML="root: { --tmp-var: bold; }",document.head.appendChild(t),e=!!(window.CSS&&window.CSS.supports&&window.CSS.supports("font-weight","var(--tmp-var)")),t.parentNode.removeChild(t),e};supportsCssVars()||alert("Please view this demo in a modern browser that supports CSS Variables.");</script>
 	</head>
@@ -122,7 +126,13 @@
 			<p>More apps are coming soon....</p>
 		</div>
 		
-		
+		<script>
+			if('serviceWorker' in navigator){
+				window.addEventListener('load', () => {
+				navigator.serviceWorker.register('/service-worker.js');
+			});
+			}
+		</script>
 		<script src="js/imagesloaded.pkgd.min.js"></script>
 		<script src="js/masonry.pkgd.min.js"></script>
 		<script src="js/charming.min.js"></script>
