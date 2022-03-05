@@ -1,7 +1,7 @@
 {
     "name": "Rocket Store",
-    "short_name": "RocketStore",
-    "start_url": "/",
+    "short_name": "Rocket",
+    "start_url": "/?home=true",
     "icons": [
         {
           "src": "icons/manifest-icon-192.maskable.png",
@@ -28,8 +28,8 @@
           "purpose": "maskable"
         }
       ],
-"theme_color": "#2196f3",
-"background_color": "#2196f3",
+"theme_color": "#f1f1f1",
+"background_color": "#f1f1f1",
 "display": "standalone",
 "scope": "/",
 "orientation": "portrait"
