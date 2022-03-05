@@ -137,6 +137,7 @@ main {
 	font-weight: normal;
 	margin: 0;
 	font-size: 1rem;
+	
 }
 
 .title__sub {
@@ -310,6 +311,10 @@ main {
 	font-size: 1.25rem;
 	font-weight: normal;
 	margin: 3rem auto;
+	transition: 0.5s all;
+}
+.content__item-subtitle:hover{
+	letter-spacing: 2px;
 }
 
 .content__item-text {
@@ -334,6 +339,9 @@ main {
 	padding: 0;
 	cursor: pointer;
 	color: var(--color-text);
+}
+.content__close:hover{
+	color: #550000;
 }
 
 .content__close:focus {
