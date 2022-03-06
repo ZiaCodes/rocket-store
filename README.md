@@ -11,7 +11,7 @@
     An awesome animated photo showcase to jumpstart your projects!
     <br />
     <br />
-    <a href="https://imgshowroom.netlify.app/">View Demo</a>
+    <a href="https://rocket-store.netlify.app/">View Demo</a>
     ·
     <a href="#">Report Bug</a>
     ·
@@ -21,7 +21,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<center><a href="#"><img src="https://github.com/ZiaCodes/ZiAhmed/blob/master/img/showcase.gif"></a></center>
+<center><a href="#"><img src="https://raw.githubusercontent.com/ZiaCodes/rocket-store/master/img/ezgif.com-gif-maker.gif"></a></center>
 
 Here's why you should use template to miniize your time.
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
@@ -69,9 +69,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Syed Ziaudddin - [@Ziaxdev](https://twitter.com/ziaxdev) - ziaxdev@gmail.com
-
-Project Link: [https://github.com/ZiaCodes/ZiAhmed](https://github.com/ZiaCodes/ZiAhmed)
+Syed Ziaudddin - [@Ziaxdev](https://twitter.com/ziacodes)
 
 
 
