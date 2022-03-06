@@ -4,11 +4,10 @@
   <a href="#">
     <img src="https://raw.githubusercontent.com/ZiaCodes/rocket-store/master/img/logo-store.png" alt="Logo" width="150" height="150">
   </a>
-
-  <h3 align="center">Photo grid showroom with JS </h3>
+  </p>
 
   <p align="center">
-    An awesome animated photo showcase to jumpstart your projects!
+    An awesome animated div showcase to jumpstart your projects!
     <br />
     <br />
     <a href="https://rocket-store.netlify.app/">View Demo</a>
@@ -17,7 +16,7 @@
     ·
     <a href="#">Request Feature</a>
   </p>
-</p>
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
