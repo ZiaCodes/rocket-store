@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://github.com/ZiaCodes/ZiAhmed/blob/master/img/logo.png" alt="Logo" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/ZiaCodes/rocket-store/master/img/logo-store.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Photo grid showroom with JS </h3>
